@@ -1,0 +1,9 @@
+.planets:hover {
+  transition: ease 0.8s;
+  transform: scale(1.5);
+}
+
+.planets:after {
+  transition: ease-out 0.8s;
+  transform: scale(1);
+}

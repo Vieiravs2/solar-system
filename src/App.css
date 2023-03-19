@@ -1,0 +1,7 @@
+body {
+  background-image: url(./images/background.png);
+  background-size: contain;
+  color: white;
+  font-family: sans-serif;
+  text-transform: uppercase;
+}
